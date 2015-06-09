@@ -1,0 +1,45 @@
+body {
+  background: #BDE2DE; }
+
+.background-img {
+  margin-left: 21em; }
+
+.img-hello {
+  overflow: hidden;
+  margin-top: -5em;
+  width: 40%;
+  height: 40em;
+  z-index: -1;
+  position: absolute; }
+
+h1 {
+  color: #333333;
+  margin-left: 10.5em;
+  position: absolute;
+  z-index: 100;
+  font-family: 'Bad Script', cursive;
+  font-size: 2.5em;
+  background: #ACD1CD;
+  padding: 0.2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 20px; }
+
+.cover-up {
+  z-index: 50;
+  position: absolute;
+  background: #BDE2DE;
+  height: 1.5em;
+  width: 4.5em;
+  margin-top: 12.5em;
+  margin-left: 32.5em; }
+
+.user-input {
+  background: white;
+  margin-top: 32em;
+  font-size: 1em;
+  margin-left: 3em;
+  padding: 1;
+  height: 3em;
+  width: 30em;
+  border-radius: 10px; }
