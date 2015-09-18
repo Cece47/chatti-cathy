@@ -5,7 +5,7 @@ $(function () {
     e.preventDefault();
 
     var git-username= $('.gif').val();
-    var git-url= "http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC" + username;
+    var git-url= "http://api.giphy.com" + username;
 
     var doneFunction=function(templateData){
       debugger
